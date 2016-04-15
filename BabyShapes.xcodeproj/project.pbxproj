@@ -48,7 +48,7 @@
 		DBC21B9719EBF2B000CD519E /* CodeaAddon.m in Sources */ = {isa = PBXBuildFile; fileRef = DBC21B9619EBF2B000CD519E /* CodeaAddon.m */; };
 		DBC21B9C19ED75A000CD519E /* GameCenterAddon.m in Sources */ = {isa = PBXBuildFile; fileRef = DBCE375F19E9F77800E382EC /* GameCenterAddon.m */; };
 		DBCE376219E9F82D00E382EC /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBCE376119E9F82D00E382EC /* GameKit.framework */; };
-		DBE0BEA31A8B693D0010DC06 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBE0BEA21A8B693D0010DC06 /* iAd.framework */; };
+		DBE0BEA31A8B693D0010DC06 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBE0BEA21A8B693D0010DC06 /* iAd.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		DBF0F5A91A3D0B78007693C1 /* iAdsAddon.m in Sources */ = {isa = PBXBuildFile; fileRef = DBF0F5A71A3D0B78007693C1 /* iAdsAddon.m */; };
 /* End PBXBuildFile section */
 
